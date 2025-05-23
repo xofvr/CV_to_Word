@@ -1,0 +1,13 @@
+streamlit
+pillow
+python-docx
+mcp[cli]
+msoffcrypto-tool
+docx2pdf
+opencv-python
+pytesseract
+numpy
+easyocr
+scikit-image
+matplotlib
+scipy
