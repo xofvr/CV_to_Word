@@ -1,6 +1,7 @@
 # CV Template to Word Generator
 
-*WIP*
+**Work In Progress**
+
 A powerful Streamlit application that converts CV template images into editable Word documents using the Model Context Protocol (MCP).
 
 ## 🚀 Features
